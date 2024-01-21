@@ -16,9 +16,8 @@ edl r boot boot.img
 
 # for exploration you can get the entire flash with
 edl rf flashdump.img
-# this dump can be mounted in kde with Disk Image Mounter exposing
-# the "persist, cache, modem, system and data" partitions for exploration
-# in your file manager of choice
+# this dump can be mounted in kde with Disk Image Mounter,
+# exposing the "persist, cache, modem, system and data" partitions for exploration in your file manager of choice
 ```
 #### 4. 
 Copy boot.img to a preferably empty project directory
