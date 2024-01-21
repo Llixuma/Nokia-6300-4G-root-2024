@@ -91,4 +91,4 @@ root
 root@Nokia 6300 4G:/ #
 ```
 
-should you encounter any errors with the setup itself and have feedback regarding this tutorial, please let me know how to improve it
+should you encounter any errors with the setup itself and have feedback regarding this tutorial, please let me know how to improve it (besides making it arch linux dependant)
