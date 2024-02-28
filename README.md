@@ -2,6 +2,8 @@
 
 ### I'm using arch Linux in these steps, keep in mind that the steps might be more cumbersome on other distros on account of not having an aur helper
 
+## important: if edl-git does not work on arch, you can download the liveiso from the edl repo and extract and upload the files from there
+
 #### 1. 
 Install edl-git through yay (more reliable than going through the manual python setup for edl)
 ``` bash
